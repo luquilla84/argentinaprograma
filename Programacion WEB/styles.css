@@ -1,0 +1,52 @@
+/* Estilos para el cuerpo de la página */
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #725936;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  html {
+    background-color: cyan;
+  }
+  
+  /* Estilos para los encabezados */
+  h1, h2 {
+    color: #0080ff;
+  }
+  
+  /* Estilos para las imágenes */
+  img {
+    max-width: 15%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para el video */
+  video {
+    width: 100%;
+    max-height: 360px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para los párrafos */
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  /* Estilos para el título principal con sombra */
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #0080ff;
+    text-shadow: 2px 2px 1px grey;
+  }
+  h1 {
+    color: #0080ff;
+    text-align: center; /* Aca Centre el texto */
+  }
